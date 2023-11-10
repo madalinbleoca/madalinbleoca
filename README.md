@@ -1,6 +1,8 @@
 ### Hi there 👋
 # 💫 About Me:
-I've recently decided to embark on a programming journey on my own, coming from the field of auto mechanics. With a growing enthusiasm, I've been exploring various tutorials and courses to achieve a successful career switch. I started with Java, however, gradually, my thirst for knowledge expanded, leading me towards diverse subjects and technologies: GIT System, Software Testing, Design Patterns & Good Practices, Databases - SQL, JDBC & Hibernate, HTML, CSS, JavaScript, Frontend Technologies: Angular, Spring. I'm passionately and determinedly dedicated to enhancing my programming skills to become a remarkable professional in this field. I'm determined to continue learning and applying new knowledge in practical projects, with the goal of achieving my objective of becoming a successful programmer.
+Enthusiastic Java Software Developer with a passion for innovation and technology applied in the information technology and services industry. Adaptable professional with 3+ years of experience and valuable skills such as problem solving, logic approach, teamwork, hardworking, looking forward to using them in the creative field of software development.
+Java | Spring Boot | Angular | Git System | MySQL
+
 
 
 ## 🌐 Socials:
